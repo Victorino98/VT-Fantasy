@@ -1,4 +1,12 @@
 # VT-Fantasy
 Fantasy Website
 
-Testing the new changes.
+Authors: Tomas Teixeira, Victor Teixeira
+
+Open terminal in the program directory:
+  Install: >npm install
+  Launch:  >node server.js
+
+Testing: Open Chrome and visit:
+  http://localhost:3000
+  
